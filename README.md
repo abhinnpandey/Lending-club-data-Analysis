@@ -15,11 +15,11 @@ The data contains 42538 rows and 145 columns. Not all these columns contain mean
 
 * **ML problem** : Data Cleaning and Exploratory Analysis
 * **Purpose of Analysis**:
-    *Seeing raw Lending Club data
-    *Cleaning Dataset
-    *Dealing with missing values
-    *Extracting important features
-    *Finding dependency of loan over different features
+    * Seeing raw Lending Club data
+    * Cleaning Dataset
+    * Dealing with missing values
+    * Extracting important features
+    * Finding dependency of loan over different features
 * **Technologies**: matplotlib, seaborn, WordCloud
 * **Implementation**: Jupyter Notebook
 

@@ -13,22 +13,19 @@ The data contains 42538 rows and 145 columns. Not all these columns contain mean
 
 ## Implimentation Details
 
-- **ML problem** : Data Cleaning and Exploratory Analysis
-- **Purpose of Analysis**:
-    -Seeing raw Lending Club data
-    -Cleaning Dataset
-    -Dealing with missing values
-    -Extracting important features
-    -Finding dependency of loan over different features
-- **Technologies**: matplotlib, seaborn, WordCloud
-- **Data**: [IMDb review dataset](https://drive.google.com/file/d/1PhnmoEP-EnPLny03WZX5L39M2ewmXdMC/view?usp=sharing)  
-- **Implementation**: Jupyter Notebook
+* **ML problem** : Data Cleaning and Exploratory Analysis
+* **Purpose of Analysis**:
+    *Seeing raw Lending Club data
+    *Cleaning Dataset
+    *Dealing with missing values
+    *Extracting important features
+    *Finding dependency of loan over different features
+* **Technologies**: matplotlib, seaborn, WordCloud
+* **Implementation**: Jupyter Notebook
 
 ## Deployment
 
-Dataset for this repository can be downloaded from:
-
-here (https://drive.google.com/file/d/1ixIhXqTRZCinJHmbwABj43Lz0S0afEO0/view?usp=sharing)
+Dataset for this repository can be downloaded from [here](https://drive.google.com/file/d/1ixIhXqTRZCinJHmbwABj43Lz0S0afEO0/view?usp=sharing)
 ``
 Download and copy this dataset in same folder as above notebook.
 ``
